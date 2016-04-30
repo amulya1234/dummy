@@ -1,2 +1,2 @@
-not cherry1
+not .cherry1
 bug fix
