@@ -1,0 +1,86 @@
+commit aadd3aa99f9db201ce253a63abd46568a1636a8d
+Merge: 8eb25fe 666ed7c
+Author: amulyak <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 17:36:58 2016 -0700
+
+    Merge branch 'master' of https://github.com/amulya1234/dummy
+
+commit 666ed7c663dfe29b09b4efb9563e95c49ea41d30
+Author: 90120merugumala <90120.merugumala@students.itu.edu>
+Date:   Sat Apr 30 17:36:12 2016 -0700
+
+    f
+    
+    f
+
+commit 8eb25feb93fc32d6ebae73cf2d3c1a858ebaa57f
+Author: amulyak <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 17:30:10 2016 -0700
+
+    all commits
+
+commit 21227805bb2292000bc14970c01567bb1c334f8f
+Author: amulyak <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 17:23:17 2016 -0700
+
+    spelling mistake in commit msg
+
+commit cac84064aac61dbabbf07a9b32c0d8026afc1e9f
+Author: amulyak <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 16:11:09 2016 -0700
+
+    fixed the dbug
+
+commit 644db88bf85745b569a71bce14efb465eeb2adda
+Author: amulyak <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 16:10:46 2016 -0700
+
+    fixed the bug
+
+commit ec87b1bf931936b14d17d248ebaf015cbb5c3608
+Author: amulyak <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 16:08:32 2016 -0700
+
+    fixed the bug
+
+commit b9282c50adc48c8ed25ea1dbde9f2fcaf78cea44
+Author: amulyak <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 16:01:27 2016 -0700
+
+    cherry
+
+commit 7048460a811a639e7feb4f70a9961762733dcfe4
+Author: amulyak <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 16:03:40 2016 -0700
+
+    mastr change
+
+commit eda0294bfd2ecbc79d06e2e01eca8f482452cc95
+Author: amulya1234 <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 14:01:11 2016 -0700
+
+    Create d
+
+commit ae0035c9706dd190d3f5150de5fabde81b6303a5
+Author: amulya1234 <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 14:01:01 2016 -0700
+
+    Create c
+
+commit 2459a9c459663f1b0b6ce6ca2015746ec9db4773
+Author: amulya1234 <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 13:59:05 2016 -0700
+
+    Create b
+
+commit 97e6b9892fa096b3fb5d1a653778712dadda7e36
+Author: amulya1234 <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 13:58:50 2016 -0700
+
+    Create a
+
+commit 417498c2da3829028f6da6759070c9bc7a435a88
+Author: amulya1234 <kancherlaamuly95@students.itu.edu>
+Date:   Sat Apr 30 13:57:49 2016 -0700
+
+    Initial commit
