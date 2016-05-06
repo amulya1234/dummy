@@ -1,2 +1,0 @@
-not cherry1
-not cherry2
