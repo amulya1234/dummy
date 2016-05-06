@@ -1,0 +1,51 @@
+we are first checking out a new branch 
+
+	git checkout -b 4th_ans
+
+rebasing master
+
+	git rebase -i master
+
+make changes in git commit
+
+	git commit --amend
+
+continue the rebase which is stopped earlier
+
+	git rebase --continue
+
+check the log
+	git lg or git lg --all
+
+
+	git reset head~1
+ 
+check the status
+
+	git status
+
+now use diff command to see the difference
+
+	git diff
+
+now make come f4 f5 f6 commits
+
+	git add .
+	git commit -m"commits done"
+
+again continue rebase
+	git rebase --continue 
+	
+check git log
+	git lg
+
+now checkout to master
+
+	git checkout master
+
+noe cherry pick 3 commit
+	git cherry-picj a3dff3
+
+once check the log
+
+	git log 
